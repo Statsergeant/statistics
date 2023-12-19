@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Geonhyeok Jeong"
-  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mark.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS student at UNC chapel Hill and Master sergeant for 10 years"
   location         : "Durham, NC"
   email            : "statsergeant@gmail.com"
@@ -284,3 +284,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      search: true
