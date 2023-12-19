@@ -110,9 +110,6 @@ author:
   location         : "Durham, NC"
   email            : "statsergeant@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: statsergeant@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Statsergeant"
@@ -285,3 +282,4 @@ defaults:
 
 
 search: true
+category: true
