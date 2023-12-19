@@ -12,5 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Category"
     url: /categories/
-  - title: "Search"
-    url: /search/
+  - title: 'Bio'
+    url: /bio/
+  - title: 'Resume'
+    url: /resume/
