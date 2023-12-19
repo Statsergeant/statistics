@@ -2,6 +2,7 @@
 title: "SAS Advanced Test Review"
 categories: SAS
 toc: true
+teaser: /assets/images/2022-07-27-SASadvanced/002.jpg
 
 ---
 # SAS Advanced  test review
@@ -27,18 +28,13 @@ Personally, the most important thing before an exam is to take a mock test on SA
 I took it at the same place(Piedmon community college). The supervisor recoginized me since I took the test a month before. Follow the instruction from her and entered.
 
 
-
-<img src="{{ https://statsergeant.github.io/ }}{{ https://statsergeant.github.io/coding/SASadvanced/ }}/images/2022-07-27-SASadvanced/002.jpg"> 
+![002.jpg](/assets/images/2022-07-27-SASadvanced/002.jpg)
 
 ## Pass score
 
 I got 876 out of 876. I have studied SQL and macro sectoins very hard but I got the highest score in Advanced tequnique.. ironi?
 
-
-
-<img src="{{ https://statsergeant.github.io/ }}{{ https://statsergeant.github.io/coding/SASadvanced/ }}/images/2022-07-27-SASadvanced/003.jpg"> 
-
-
+![003.jpg](/assets/images/2022-07-27-SASadvanced/003.jpg)
 
 ## Review
 
